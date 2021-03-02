@@ -1,6 +1,6 @@
 # GameSky
 
-Game sky is a javascript mini game.
+GameSky is a game that uses 2D display. The aim is to direct the plane and shot the bad birds, you can move the plane to any direction to avoid the birds. If a plane touches the birds, you lose. the plane needs fuel to continue the fight, that's why you need to collect the fuels bottles.
 
 # Screenshots
 
