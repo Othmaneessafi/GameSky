@@ -1,6 +1,6 @@
 # GameSky
 
-GameSky is a game that uses 2D display. The aim is to direct the plane and shot the bad birds, you can move the plane to any direction to avoid the birds. If a plane touches the birds, you lose. the plane needs fuel to continue the fight, that's why you need to collect the fuels bottles.
+GameSky is a game that uses 2D display. The aim is to direct the plane and shot the bad birds, you can move the plane to any direction to avoid the birds. If a plane touches the birds, you lose. the plane needs fuel to continue the fight, that's why you need to collect the fuels bottles. Theres also stars you need to collect to gain points. When you lose you can add your name to the list.
 
 # Screenshots
 
